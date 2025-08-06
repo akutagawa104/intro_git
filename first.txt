@@ -9,3 +9,6 @@
 5. git rm
 
 6. git status
+
+7. git diff
+
