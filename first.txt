@@ -2,6 +2,8 @@
 
 2.基本的なワークフローを学びます。
 
-3.・git add
+3. git add
 
-4,・git commit
+4, git commit
+
+5. git rm
